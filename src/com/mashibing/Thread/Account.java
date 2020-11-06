@@ -30,6 +30,11 @@ public class Account {
         return  this.balance;
     }
 
+    /**
+     * 注释添加
+     * @param userName
+     * @param balance
+     */
     private synchronized void setBalance(String userName, double balance) {
 
         this.userName = userName;
