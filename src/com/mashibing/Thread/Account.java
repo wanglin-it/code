@@ -13,6 +13,10 @@ public class Account {
     String userName;
     double balance;
 
+    /**
+     *main方法
+     *
+     */
     public static void main(String[] args){
 
         Account a = new Account();
