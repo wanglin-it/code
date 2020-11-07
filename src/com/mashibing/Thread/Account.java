@@ -14,7 +14,7 @@ public class Account {
      * 变量定义
      */
     String userName;//用户账户姓名
-    double balance;//用户账户金额
+    double balance;//用户账户金额*****************8
     //--------------------
     /**
      *main方法
