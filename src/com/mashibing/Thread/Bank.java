@@ -10,6 +10,9 @@ import java.util.Arrays;
  */
 public class Bank {
 
+    /**
+     * 测试
+     */
     //账户数组
     private final double[] accounts;
 

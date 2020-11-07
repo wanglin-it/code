@@ -16,6 +16,10 @@ public class BankTest {
     //休眠时间
     public static final int DELAY=10;
 
+    /**
+     * this is a main
+     * @param args
+     */
     public static void main(String[] args) {
         //实例化一个有100个账户、每个账户初始余额为1000元的银行
         Bank bank=new Bank(ACCOUNTS_SIZE,INIT_BALANCE);
