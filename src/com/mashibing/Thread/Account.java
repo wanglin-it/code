@@ -15,8 +15,6 @@ public class Account {
      */
     String userName;//用户账户姓名
     double balance;//用户账户金额*****************8
-    //--------------------
-    double balance;//用户账户金额
     //----------**************----------
     /**
      *main方法
