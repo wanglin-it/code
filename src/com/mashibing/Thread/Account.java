@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 public class Account {
 
     String userName;
-    double balance;
+    double balance;//用户账户金额
 
     /**
      *main方法
