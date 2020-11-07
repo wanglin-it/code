@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class Account {
 
-    String userName;
+    String userName;//用户姓名
     double balance;
 
     /**
